@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pig
+  - Barrel
+  - Dog
+  - Gardener
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stone
+    uniqueID: 1726843133
+    locked: 0
+  - name: Barrel
+    uniqueID: 2710432271
+    locked: 0
+  - name: Bomb
+    uniqueID: 3754718545
+    locked: 0
+  - name: Pig
+    uniqueID: 843707963
+    locked: 0
+  - name: Effects
+    uniqueID: 3366296311
+    locked: 0
+  - name: UI
+    uniqueID: 2459900739
+    locked: 0
